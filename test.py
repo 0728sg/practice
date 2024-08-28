@@ -9,6 +9,5 @@ def moi_decorator(func):
 def say_hello():
     print("Salam")
 
-# Example usage:
 if __name__ == "__main__":
     say_hello()
